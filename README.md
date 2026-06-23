@@ -18,13 +18,13 @@
 ## Πώς είναι συνδεδεμένο
 
 ### Κινητήρες
-| L298N | Pico |
-| IN1 | GP0 |
-| IN2 | GP1 |
-| IN3 | GP2 |
-| IN4 | GP3 |
-| ENA | GP4 |
-| ENB | GP5 |
+L298N
+IN1 | GP0
+IN2 | GP1
+IN3 | GP2
+IN4 | GP3
+ENA | GP4
+ENB | GP5
 
 ### Αισθητήρες
 | Αισθητήρας | Pico |
